@@ -1,8 +1,8 @@
 {
   "name": "wwl-js-app-context",
-  "version": "0.1.0",
+  "version": "0.1.0.p1",
   "description": "",
-  "main": "src/context.coffee",
+  "main": "lib/context.coffee",
   "files": [
     "src",
     "package.json",
