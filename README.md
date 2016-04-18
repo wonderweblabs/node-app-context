@@ -1,8 +1,8 @@
 # wwl-node-app-context
 
-| Master | Develop |
-|--------|---------|
-| [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-app-context.svg?branch=master)](https://travis-ci.org/wonderweblabs/wwl-js-app-context) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-app-context.svg?branch=develop)](https://travis-ci.org/wonderweblabs/wwl-js-app-context) |
+| Current Version | Master | Develop |
+|-----------------|--------|---------|
+| [![npm version](https://badge.fury.io/js/wwl-js-app-context.svg)](https://badge.fury.io/js/wwl-js-app-context) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-app-context.svg?branch=master)](https://travis-ci.org/wonderweblabs/wwl-js-app-context) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-app-context.svg?branch=develop)](https://travis-ci.org/wonderweblabs/wwl-js-app-context) |
 
 ---
 
